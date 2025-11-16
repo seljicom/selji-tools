@@ -35,8 +35,7 @@ These tools:
 # 🔍 **Available Utilities**
 
 ## 1. **ASIN Scraper — Amazon Search Results (Python)**  
-**Path:** `scrapers/asin_scraper_for_amazon_search_results.py`  
-:contentReference[oaicite:0]{index=0}
+**Path:** `scrapers/asin_scraper_for_amazon_search_results.py`
 
 ### ✔ Description  
 A robust HTML parser that extracts **unique ASINs** from any Amazon search results URL.  

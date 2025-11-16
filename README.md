@@ -52,5 +52,3 @@ It can fetch the page remotely using `requests` or process saved HTML files.
 
 ```bash
 python scrapers/asin_scraper_for_amazon_search_results.py
-
-
